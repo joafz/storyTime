@@ -3,8 +3,6 @@
 ![Language](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![Language](https://img.shields.io/badge/iOS-13.0-orange.svg)
 
-Cook the perfect egg with this accurate timer.
-
 
 ## How it works!
 <p>This app is an isnpiration from a poem called "The Road Not Taken" BY Robert Frost.</p>
