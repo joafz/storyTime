@@ -5,7 +5,7 @@
 
 
 ## How it works!
-<p>This app is an isnpiration from a poem called "The Road Not Taken" BY Robert Frost.</p>
+<p>This app is an isnpiration from a poem called "The Road Not Taken" by Robert Frost.</p>
 
 <p>When the user choose a path, they will be directed into a different story.</p>
 
