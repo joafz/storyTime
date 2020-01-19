@@ -7,7 +7,8 @@
 ## How it works!
 <p>This app is an isnpiration from a poem called "The Road Not Taken" by Robert Frost.</p>
 
-<p>When the user choose a path, they will be directed into a different story.</p>
+<p>This app is an isnpiration from a poem called "The Road Not Taken" by Robert Frost. </p>
+<p>The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience.</p>
 
 ![Story Time App](https://user-images.githubusercontent.com/39883704/72671791-b0080680-3a1d-11ea-920c-663dbf3663bf.gif)
 
