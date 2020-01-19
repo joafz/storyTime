@@ -3,7 +3,6 @@
 ![Language](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![Language](https://img.shields.io/badge/iOS-13.0-orange.svg)
 
-
 ## How it works!
 <p>This app is an isnpiration from a poem called "The Road Not Taken" by Robert Frost. </p>
 <p>The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience.</p>
